@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Olá! Eu sou o Luiz Guni 👋</h1>
-<h3 align="center">Desenvolvedor de Software em formação | Focado em soluções escaláveis e APIs de alta performance 🚀</h3>
+<h3 align="center"> Desenvolvedor SAP ABAP | Focado em soluções de alta performance 🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luizguni/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
