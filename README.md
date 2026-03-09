@@ -3,59 +3,119 @@
 </p>
 
 <h1 align="center">Olá! Eu sou o Luiz Guni 👋</h1>
-<h3 align="center"> Desenvolvedor SAP ABAP | Focado em soluções de alta performance 🚀</h3>
+
+<h3 align="center">
+SAP Fiori & ABAP Developer | SAPUI5 • OData • CDS • S/4HANA
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luizguni/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-  <a href="mailto:luizguny@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://luizguni.github.io/Projeto-Portfolio"><img src="https://img.shields.io/badge/Portfólio-000?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/luizgunisantos/">
+    <img src="https://img.shields.io/badge/LinkedIn-Luiz%20Guni-blue?style=flat&logo=linkedin">
+  </a>
+  
+  <a href="mailto:luizguny@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://luizguni.github.io/Projeto-Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Projects-black?style=flat&logo=github">
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+# 👨‍💻 About Me
 
-Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software com foco em backend.  
-Atualmente, estou me especializando no ecossistema **Java** com **Spring Boot**, criando APIs robustas, seguras e escaláveis.  
-Além disso, tenho me dedicado ao aprendizado e desenvolvimento com **ABAP**, consolidando um portfólio prático nessa poderosa linguagem usada em sistemas **SAP ERP**.  
+I am a software developer specialized in the **SAP ecosystem**, working with **SAP Fiori, SAPUI5 and ABAP** to build modern enterprise applications integrated with **SAP S/4HANA**.
 
-Valorizo boas práticas, versionamento com Git, testes automatizados e performance de aplicações.  
-Estou sempre em busca de **novos desafios** para evoluir, colaborar e gerar impacto através da tecnologia.
+My experience includes backend development with **ABAP**, creation of **OData services**, integration using **SAP Gateway**, and development of user interfaces with **SAPUI5 and Fiori Elements**, following SAP recommended architecture and best practices.
 
----
+I also have previous experience in backend development using **Java and Spring Boot**, building scalable APIs and distributed systems, which strengthened my background in software architecture and system integration.
 
-### 🚀 Tecnologias e Ferramentas
+I am passionate about **clean code, performance optimization, version control with Git and enterprise software architecture**.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![ABAP](https://img.shields.io/badge/ABAP-009FDA?style=for-the-badge&logo=sap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Currently I am deepening my knowledge in:
+
+- ABAP Modern Development  
+- RAP (RESTful ABAP Programming Model)  
+- CDS Views  
+- OData Services  
+- SAP Fiori Elements  
+- SAPUI5 Development  
+
+My goal is to continuously evolve as a **SAP Developer**, delivering scalable and efficient solutions for enterprise environments.
 
 ---
 
-### 📊 Estatísticas do GitHub
+# 🚀 SAP Stack
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luizguni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizguni&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img src="https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge&logo=sap"/>
+<img src="https://img.shields.io/badge/SAP-Fiori-0FAAFF?style=for-the-badge&logo=sap"/>
+<img src="https://img.shields.io/badge/SAP-SAPUI5-0FAAFF?style=for-the-badge&logo=sap"/>
+<img src="https://img.shields.io/badge/SAP-OData-0FAAFF?style=for-the-badge&logo=sap"/>
+<img src="https://img.shields.io/badge/SAP-CDS%20Views-0FAAFF?style=for-the-badge&logo=sap"/>
+<img src="https://img.shields.io/badge/SAP-S4HANA-0FAAFF?style=for-the-badge&logo=sap"/>
+
 </div>
 
 ---
 
-### 📫 Como me encontrar
+# 💻 Other Technologies
 
-- 💼 [Portfólio Online](https://luizguni.github.io/)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/luizguni/)  
-- 📧 luizguny@email.com  
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-SpringBoot-6DB33F?style=for-the-badge&logo=spring"/>
+<img src="https://img.shields.io/badge/API-REST-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/SQL-Databases-336791?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luizguni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizguni&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luizguni&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+- SAP Fiori Applications  
+- ABAP Backend Services  
+- OData APIs for SAP Integration  
+- SAP Automation Tools  
+- Enterprise Software Development
+
+---
+
+# 📫 Contact
+
+💼 Portfolio  
+https://luizguni.github.io/
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/luizguni/
+
+📧 Email  
+luizguny@email.com
 
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! Vamos construir algo incrível juntos? 🚀
+
+⭐ If you like my projects, consider giving them a star.
+
+Let's build great SAP solutions together.
+
 </p>
